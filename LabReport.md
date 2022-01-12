@@ -15,3 +15,15 @@ In this lab report, I am going to show how to log into a course-specific account
 ## Now, you are on the server, type some command to see how it works.
 ## 3. Let's try some command like this.<img width="559" alt="截屏2022-01-11 下午3 50 22" src="https://user-images.githubusercontent.com/97556577/149048608-edcea8f0-e1fb-4063-8dca-0702a3afd8e7.png">
 <img width="1470" alt="截屏2022-01-11 下午3 52 28" src="https://user-images.githubusercontent.com/97556577/149048622-c994a9de-03f3-4ae0-8bd0-a78248588685.png">
+## Specfically, scp command can copy the file on your pc to the server
+<img width="1474" alt="截屏2022-01-11 下午6 01 18" src="https://user-images.githubusercontent.com/97556577/149050776-a131446e-2733-4de8-a864-0985ec6e0d29.png">
+## 4. Next, we want to set up an SSH key that simplify the login process.
+## Firstly, use ssh-keygen command to create a pair of key that stores on your pc and server. 
+<img width="667" alt="截屏2022-01-11 下午3 59 46" src="https://user-images.githubusercontent.com/97556577/149051053-ae7f3d13-324b-4153-b10c-dcf0fa9c3592.png">
+## Then, log into your account and type command below
+<img width="509" alt="截屏2022-01-11 下午4 00 22" src="https://user-images.githubusercontent.com/97556577/149051233-bded4c45-8e6c-48f8-80b6-557adc604c40.png">
+## Finally, copy the key and update it to the server use scp command.
+<img width="899" alt="截屏2022-01-11 下午4 00 49" src="https://user-images.githubusercontent.com/97556577/149051319-5eb11057-b864-452e-8c5e-f7d7e9ba43eb.png">
+## Then, you can log into your account without password!
+<img width="502" alt="截屏2022-01-11 下午4 01 04" src="https://user-images.githubusercontent.com/97556577/149051400-3a38be83-d325-4681-818b-02588f273671.png">
+
