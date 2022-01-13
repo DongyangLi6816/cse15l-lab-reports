@@ -1,4 +1,4 @@
-# This is Dongyang@UCSD.
+# This is Dongyang.
 ## Majoring in Math-CS
 *斜体*
 **bold**
