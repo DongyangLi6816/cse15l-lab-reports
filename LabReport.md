@@ -27,4 +27,7 @@ In this lab report, I am going to show how to log into a course-specific account
 ![Image](https://user-images.githubusercontent.com/97556577/149051319-5eb11057-b864-452e-8c5e-f7d7e9ba43eb.png)
 ## Then, you can log into your account without password!
 ![Image](https://user-images.githubusercontent.com/97556577/149051400-3a38be83-d325-4681-818b-02588f273671.png)
-
+## 5. More conviently, you can remotely run command on server without log into it through adding the command after ssh command.
+![Image](file:///Users/lidongyang/Desktop/截屏2022-01-13%20下午2.01.28.png)
+## Moreover, you can run many command in one line by using semicolons.
+![Image] (file:///Users/lidongyang/Desktop/截屏2022-01-13%20下午2.05.30.png)
